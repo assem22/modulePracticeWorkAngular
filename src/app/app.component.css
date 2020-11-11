@@ -1,0 +1,9 @@
+.content{
+  position: relative;
+  display: block;
+  top: 60px;
+  left: 50px;
+}
+.navbar{
+  position: absolute;
+}
